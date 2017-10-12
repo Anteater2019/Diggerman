@@ -1,0 +1,9 @@
+﻿  StudentWorld.cpp
+  main.cpp
+  GameWorld.cpp
+  GameController.cpp
+  Actor.cpp
+  Generating Code...
+  LINK : C:\Users\marco\Documents\DiggerMan\DiggerMan\Debug\DiggerMan.exe not found or not built by the last incremental link; performing full link
+  DiggerMan.vcxproj -> C:\Users\marco\Documents\DiggerMan\DiggerMan\Debug\DiggerMan.exe
+  DiggerMan.vcxproj -> C:\Users\marco\Documents\DiggerMan\DiggerMan\Debug\DiggerMan.pdb (Partial PDB)
